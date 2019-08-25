@@ -1,0 +1,41 @@
+.inputform {
+    width: 500px;
+    /* padding: 40px; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.fname {
+    padding: 1rem;
+}
+
+.lname {
+    padding: 1rem;
+}
+
+.emailaddress {
+    padding: 1rem;
+}
+
+.password {
+    padding: 1rem;
+}
+
+.address {
+    padding: 1rem;
+}
+
+.complains {
+    padding: 1rem;
+}
+
+#submitBtn {
+    width: 500px;
+    margin-top: 1rem;
+}
+
+#plusqueue {
+    float: right;
+}

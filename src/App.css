@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+#base {
+  width: 100%;
+  background-image: url("/img/bg-img.jpg");
+  background-size: cover;
+}
+
+.logo {
+  border-radius: 50%;
+}
